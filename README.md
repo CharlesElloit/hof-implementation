@@ -1,7 +1,7 @@
 # Higher Order Function Implementation in JavaScript
 
-This is an implementation of an existing JavaScript higher Order Function (hof)  
-to give you some better understanding of how they work and how they are implemented in JavaScript.
+**This is an implementation of an existing JavaScript higher Order Function (hof) 
+to give you some better understanding of how they work and how they are implemented in JavaScript.**
 
 In addation to that i've also provided algorithm above the implementation of those function
 to guide you through and help you understand how it's been implemented or else if you wanna give a try
